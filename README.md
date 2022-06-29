@@ -1,1 +1,1 @@
-Estudando o livro Dominando JavaScript Com Jquery - Casa do Codigo.
+Estudando o livro Dominando JavaScript Com Jquery - Casa do Codigo
